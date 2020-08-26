@@ -1,4 +1,4 @@
-/** sketch.js
+/** MarchingSquares.js
  *  Description: A rendition of the Marching squares algorithmn which generates a contour for a 2-D scalar fieldp5.
  *               Uses linear interpolation to create a less "blocky" image.
  *               Imports p5.js and OpenSimplexNoise.js.
